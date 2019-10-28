@@ -1,0 +1,4 @@
+[ERROR] Error executing Maven.
+[ERROR] 1 problem was encountered while building the effective settings
+[FATAL] Non-parseable settings /Users/shaniat/.m2/settings.xml: end tag name </proxies> must match start tag name <settings> from line 2 (position: TEXT seen ...</activeProfiles>\n</proxies>... @56:11)  @ /Users/shaniat/.m2/settings.xml, line 56, column 11
+
