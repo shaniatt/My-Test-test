@@ -1,3 +1,4 @@
+steps:
 - task: ArtifactoryDotnetCore@1
   inputs:
     command: 'restore'
